@@ -1,2 +1,0 @@
-# rainbow
-Color Scheme Generator
